@@ -39,15 +39,26 @@ let x = 2.5;
 let y = 2;
 console.log(`${num1} / ${num2} = ${num1 / num2} reaminder ${num1 % num2}`);
 
+// TASK 2
+
+let array = [7, 0.7, 'Guga']
+
+let person = { 
+    colour: 'mixed',
+    height: 170,
+    age: 31,
+    name: 'Tauha'
+}
+console.log(person)
+
+console.log(typeof(person))
+console.log(typeof(array))
 
 
+let Poopie = [ 'haha', 5 , 'baba', 9 ]
+console.log( typeof(Poopie))
 
+let waga = null
+let nana;
 
-
-
-
-// let text1 = '10';
-// let text2 = '5';
-// let result = text1.concat(text2)
-// console.log(result)
 
